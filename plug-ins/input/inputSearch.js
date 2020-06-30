@@ -51,11 +51,11 @@
             // width:(w - 100)+ 'px'  
             flex: 1,
             outline: 'none',
-            border: 'none',
+            border: '2px solid red',
             textIndent: '10px'
         });
         $('.cj-btn', self.parent).css({
-            height: '100%',
+            height: '39px',
             width: '100px',
             backgroundColor: self.btnColor,
             color: '#fff',
